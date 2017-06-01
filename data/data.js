@@ -1,20 +1,33 @@
 window.data = {
   content: {
+    sizzler: {
+      // Number of images in sizzler folder
+      imgCount: 50,
+      // The speed in which the images change, in ms
+      changeSpeed: 10000
+    },
     contact: {
       phone: '877.448.7711',
       fax: '714.486.3051',
-      email: 'customerfeedback@myhitmobile.com'
+      email: 'customerfeedback@myhitmobile.com',
+      careers: 'careers@myhitmobile.com'
     },
     landing: {
       one: {
+        pic: './img/pitch/1.PNG',
+        pos: '50% 10%',
         title: 'CUSTOMERS',
         text: 'Putting our customers first is our biggest priority. We want to learn about you to make certain you\'re taken care of right the first time.'
       },
       two: {
+        pic: './img/pitch/2.JPG',
+        pos: '50% 30%',
         title: 'EMPLOYEES',
         text: 'The backbone and strength of our Company is our employees. Our goal is focused around making a fun and dynamic environment for our team.'
       }, 
       three: {
+        pic: './img/pitch/3.JPG',
+        pos: '50% 40%',
         title: 'SERVICE',
         text: 'Changing wireless for good and making sure we take care of our customers. Our focus is to make our customers our long time clients.'
       },
@@ -69,19 +82,16 @@ window.data = {
       founders: [
         {
           icon: './img/meet/b.jpg',
-          icon2: './img/meet/b2.jpg',
           name: 'Mauro Martinez',
           role: 'CEO'
         },
         {
           icon: './img/meet/c.jpg',
-          icon2: './img/meet/c2.jpg',
           name: 'Sunil Hathiramani',
           role: 'COO'
         },
         {
           icon: './img/meet/a.jpg',
-          icon2: './img/meet/a2.jpg',
           name: 'David Kaufman',
           role: 'CFO'
         }
