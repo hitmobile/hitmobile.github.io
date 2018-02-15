@@ -10,7 +10,7 @@ window.data = {
       phone: '877.448.7711',
       fax: '714.486.3051',
       email: 'customerfeedback@myhitmobile.com',
-      careers: 'Apply on Indeed or ZipRecruiter'
+      careers: 'https://www.indeed.com/cmp/Hit-Mobile-1'
     },
     landing: {
       one: {
