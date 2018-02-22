@@ -51,7 +51,7 @@ window.data = {
           text: 'The associate was eager to help and was very engaging.'
         },
         {
-          text: 'Very professional yet friendly.. absolutely great customer service.'
+          text: 'Very professional yet friendly... absolutely great customer service.'
         },
         {
           text: 'Associate was very knowledgeable, friendly, and patient. Had very good customer service skills...'
