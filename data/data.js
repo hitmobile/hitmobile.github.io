@@ -172,7 +172,7 @@ window.data = {
       location: 'Anaheim',
       phone: '657-233-5566',
       fax: '657-233-5741',
-      address: '1686 W Katella Ave\nAnaheim, CA 92802',
+      <a href="https://goo.gl/maps/kdgnZwJ7vW82">address: '1686 W Katella Ave\nAnaheim, CA 92802'</a>,
       cross: 'Katella Ave and Euclid St.',
       lat: '33.801721',
       lng: '-117.940651'
