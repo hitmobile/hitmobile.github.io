@@ -169,10 +169,10 @@ window.data = {
   stores: {
     la: [
     {
-      location: 'Anaheim',
+      location: 'ANAHEIM',
       phone: '657-233-5566',
       fax: '657-233-5741',
-      <a href="https://goo.gl/maps/kdgnZwJ7vW82">address: '1686 W Katella Ave\nAnaheim, CA 92802'</a>,
+      address: '1686 W Katella Ave\nAnaheim, CA 92802',
       cross: 'Katella Ave and Euclid St.',
       lat: '33.801721',
       lng: '-117.940651'
