@@ -11,6 +11,21 @@ window.data = {
       fax: '714.486.3051',
       email: 'customerfeedback@myhitmobile.com',
       careers: 'https://www.indeed.com/cmp/Hit-Mobile-1'
+      function linkify(Apply at Indeed){
+    if (Apply at Indeed) {
+        text = text.replace(
+            /((https?\:\/\/)|(www\.))(\S+)(\w{2,4})(:[0-9]+)?(\/|\/([\w#!:.?+=&%@!\-\/]))?/gi,
+            function(http://www.indeed.com/){
+                var full_url = url;
+                if (!full_url.match('^https?:\/\/')) {
+                    full_url = 'http://www.indeed.com’ + full_url;
+                }
+                return '<a href="' + full_url + '">' + url + '</a>';
+            }
+        );
+    }
+    return text;
+}
     },
     landing: {
       one: {
