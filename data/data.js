@@ -169,7 +169,7 @@ window.data = {
   stores: {
     la: [
     {
-      location: 'ANAHEIM',
+      location: 'Anaheim',
       phone: '657-233-5566',
       fax: '657-233-5741',
       address: '1686 W Katella Ave\nAnaheim, CA 92802',
