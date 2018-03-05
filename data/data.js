@@ -176,6 +176,15 @@ window.data = {
       lat: '33.801721',
       lng: '-117.940651'
     },
+      {
+      location: 'Anaheim 2’,
+      phone: ’657-233-5556’,
+      fax: '657-233-5741',
+      address: ‘905 N. Euclid Street Suite C\nAnaheim, CA 92801’,
+      cross: 'Katella Ave and Euclid St.',
+      lat: '33.844223',
+      lng: '-117.942138'
+    },
     {
       location: 'Baldwin Park',
       phone: '626-388-9182',
