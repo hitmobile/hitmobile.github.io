@@ -168,7 +168,7 @@ window.data = {
   stores: {
     la: [
     {
-      location: 'Anaheim',
+      location: 'Anaheim 1',
       phone: '657-233-5566',
       fax: '657-233-5741',
       address: '1686 W Katella Ave\nAnaheim, CA 92802',
@@ -177,13 +177,13 @@ window.data = {
       lng: '-117.940651'
     },
     {
-      location: 'Anaheim 2’,
-      phone: ’657-233-5556’,
+      location: 'Anaheim 2',
+      phone: '657-233-5566',
       fax: '657-233-5741',
-      address: ‘905 N. Euclid Street Suite C\nAnaheim, CA 92801’,
+      address: '1686 W Katella Ave\nAnaheim, CA 92802',
       cross: 'Katella Ave and Euclid St.',
-      lat: '33.844223',
-      lng: '-117.942138'
+      lat: '33.801721',
+      lng: '-117.940651'
     },
     {
       location: 'Baldwin Park',
