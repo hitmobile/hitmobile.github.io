@@ -176,7 +176,7 @@ window.data = {
       lat: '33.801721',
       lng: '-117.940651'
     },
-      {
+    {
       location: 'Anaheim 2’,
       phone: ’657-233-5556’,
       fax: '657-233-5741',
