@@ -181,7 +181,7 @@ window.data = {
       phone: '657-233-5566',
       fax: '657-233-5741',
       address: '905 N Euclid Street Suite C\nAnaheim, CA 92801',
-      cross: 'Katella Ave and Euclid St.',
+      cross: 'Euclid St and Catapala Dr',
       lat: '33.844223',
       lng: '-117.942138'
     },
