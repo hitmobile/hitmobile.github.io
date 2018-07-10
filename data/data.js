@@ -10,7 +10,6 @@ window.data = {
       phone: '877.448.7711',
       fax: '714.486.3051',
       email: 'customerfeedback@myhitmobile.com',
-      careers: 'careers@myhitmobile.com'
     },
     landing: {
       one: {
@@ -169,13 +168,22 @@ window.data = {
   stores: {
     la: [
     {
-      location: 'Anaheim',
+      location: 'Anaheim 1',
       phone: '657-233-5566',
       fax: '657-233-5741',
       address: '1686 W Katella Ave\nAnaheim, CA 92802',
       cross: 'Katella Ave and Euclid St.',
       lat: '33.801721',
       lng: '-117.940651'
+    },
+    {
+      location: 'Anaheim 2',
+      phone: '657-233-5566',
+      fax: '657-233-5741',
+      address: '905 N Euclid Street Suite C\nAnaheim, CA 92801',
+      cross: 'Euclid St and Catapala Dr',
+      lat: '33.844223',
+      lng: '-117.942138'
     },
     {
       location: 'Baldwin Park',
