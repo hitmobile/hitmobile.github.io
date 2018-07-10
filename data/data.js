@@ -98,18 +98,18 @@ window.data = {
       ],
       key: [
         {
-          icon: './img/meet/cv.jpg',
-          name: 'Carlos Vasquez',
+          icon: './img/meet/sr.jpg',
+          name: 'Saul Rodriguez',
           role: 'Director of Sales - LA'
         },
         {
           icon: './img/meet/tm.jpg',
           name: 'Tamela Milini',
-          role: 'Director of Sales - SD'
+          role: 'Director of Sales'
         },
         {
-          icon: './img/meet/ab.jpg',
-          name: 'Alma Burgos',
+          icon: './img/meet/ks.jpg',
+          name: 'Kevin Switzer',
           role: 'Director of Operations'
         },
         {
@@ -120,7 +120,7 @@ window.data = {
         {
           icon: './img/meet/dq.jpg',
           name: 'Desiree Quan',
-          role: 'Human Resources Manager'
+          role: 'Director of Human Resources'
         }
       ]
     },
@@ -360,6 +360,48 @@ window.data = {
     ],
     sd: [
     {
+      location: '4S Ranch',
+      phone: '858-613-0675',
+      address: '16615-B Dove Canyon Rd.\nSan Diego, CA 92127',
+      lat: '33.014969',
+      lng: '-117.110067'
+    },
+    {
+      location: 'Auto Park Way',
+      phone: '760-745-0172',
+      address: '1274 Auto Park Way Suite A.\nEscondido, CA 92029',
+      lat: '33.112912',
+      lng: '-117.098912'
+    },
+    {
+      location: 'Barrio Logan',
+      phone: '760-745-0172',
+      address: '1900 Main St. Suite 113\nSan Diego, CA 92113',
+      lat: '32.699116',
+      lng: '-117.145998'
+    },
+    {
+      location: 'Bay Park',
+      phone: '619-684-5281',
+      address: '3077 Clairemont Dr. Suite A\nSan Diego, CA 92117',
+      lat: '32.795179',
+      lng: '-117.192459'
+    },
+    {
+      location: 'Bonito',
+      phone: '619-773-7928',
+      address: '3077 Clairemont Dr. Suite A\nSan Diego, CA 92117',
+      lat: '32.659795',
+      lng: '-117.032908'
+    },
+    {
+      location: 'Carmel Mtn.',
+      phone: '858-673-8625',
+      address: '11980 Carmel Mtn Rd. Suite 244\nSan Diego, CA 92128',
+      lat: '32.983897',
+      lng: '-117.078236'
+    },
+    {
       location: 'Chula Broadway',
       phone: '619-691-9100',
       fax: '619-691-9101',
@@ -378,13 +420,34 @@ window.data = {
       lng: '-117.089686'      
     },
     {
-      location: 'Clairemont',
+      location: 'Chula Vista',
+      phone: '619-621-5204',
+      address: '622 Palomar St. Suite 1301\nChula Vista, CA 91911',
+      lat: '32.602526',
+      lng: '-117.079831'
+    },
+    {
+      location: 'City Heights',
+      phone: '619-285-0973',
+      address: '3807 Fairmont Ave.\nSan Diego, CA 92105',
+      lat: '32.748093',
+      lng: '-117.100712'
+    },
+    {
+      location: 'Clairemont 1',
       phone: '858-270-3500',
       fax: '858-270-3509',
       address: '3592 Clairemont Mesa Blvd. #C\nSan Diego, CA 92117',
       cross: 'Clairemont Mesa Blvd. and Rolfe Rd.',
       lat: '32.827768',
       lng: '-117.208853'      
+    },
+    {
+      location: 'Clairemont 2',
+      phone: '858-836-8066',
+      address: '7420 Clairemont Mesa Blvd., Suite 117\nSan Diego, CA 92111',
+      lat: '32.833575',
+      lng: '-117.158414' 
     },
     {
       location: 'El Cajon 1',
@@ -405,13 +468,41 @@ window.data = {
       lng: '-116.96228429999996'      
     },
     {
-      location: 'Escondido',
+      location: 'Encinitas',
+      phone: '760-942-8625',
+      address: '191 N. El Camino Real\nEncinitas, CA 92024',
+      lat: '33.049186',
+      lng: '-117.259390' 
+    },
+    {
+      location: 'Escondido 1',
       phone: '760-747-1033',
       fax: '760-747-1080',
       address: '1201 E. Valley Parkway #C\nEscondido, CA 92027',
       cross: 'Valley Pkwy and Ash',
       lat: '33.130274',
       lng: '-117.066573'      
+    },
+    {
+      location: 'Escondido 2',
+      phone: '760-741-8625',
+      address: '1865 S. Centre City Pkwy.\nEscondido, CA 92025',
+      lat: '33.100566',
+      lng: '-117.075367'    
+    },
+    {
+      location: 'Euclid',
+      phone: '619-266-7147',
+      address: '336 Euclid Ave #501\nSan Diego, CA 92114',
+      lat: '32.708593',
+      lng: '-117.086717'
+    },
+    {
+      location: 'Fallbrook',
+      phone: '760-695-9038',
+      address: '1141 S. Mission Rd.\nFallbrook, CA 92028',
+      lat: '33.371515',
+      lng: '-117.253107'
     },
     {
       location: 'Highland',
@@ -423,6 +514,20 @@ window.data = {
       lng: '-117.0888635'      
     },
     {
+      location: 'Imperial Beach',
+      phone: '619-737-9992',
+      address: '781 Palm Ave. Space #102\nImperial Beach, CA 91932',
+      lat: '32.583658',
+      lng: '-117.116134'
+    },
+    {
+      location: 'Jamacha',
+      phone: '619-328-6277',
+      address: '2518 Jamacha Rd. #305\nEl Cajon, CA 92019',
+      lat: '32.745802',
+      lng: '-116.930749'
+    },
+    {
       location: 'La Jolla',
       phone: '',
       fax: '',
@@ -430,6 +535,20 @@ window.data = {
       cross: 'Villa La Jolla Dr. and Nobel Dr.',
       lat: '32.8681139',
       lng: '-117.2329019'      
+    },
+    {
+      location: 'Lemon Grove',
+      phone: '619-667-3428',
+      address: '7285 Broadway\nLemon Grove, CA 91945',
+      lat: '32.742156',
+      lng: '-117.041132'
+    },
+    {
+      location: 'Mission Gorge',
+      phone: '619-255-6476',
+      address: '6551 Mission Gorge Rd.\nSan Diego, CA 92120',
+      lat: '32.792046',
+      lng: '-117.096504'
     },
     {
       location: 'Murphy Canyon',
@@ -441,23 +560,55 @@ window.data = {
       lng: '-117.116016'      
     },
     {
-      location: 'Oceanside',
+      location: 'National City',
+      phone: '619-479-1971',
+      address: '2220 E. Plaza Blvd. Suite P\nNational City, CA 91950',
+      lat: '32.677350',
+      lng: '-117.081936'
+    },
+    {
+      location: 'Oceanside 1',
       phone: '',
-      fax: '',
       address: '463 College Blvd Unit N\nOceanside, CA 92057',
       cross: 'College Blvd and Hwy 76',
       lat: '33.244438',
-      lng: '-117.29245300000002'      
+      lng: '-117.292453'
     },
-    // {
-    //   location: 'National City',
-    //   phone: '619-477-7278',
-    //   fax: '619-477-7328',
-    //   address: '3007 Highland Ave. #109\nNational City, CA 91950',
-    //   cross: 'Highland Ave. and 30th',
-    //   lat: '32.658819',
-    //   lng: '-117.088864'      
-    // },
+    {
+      location: 'Oceanside 2',
+      phone: '760-757-8625',
+      address: '47 Douglas Dr. Suite 102\nOceanside, CA 92058',
+      lat: '33.227288',
+      lng: '-117.326527'      
+    },
+    {
+      location: 'Oceanside 3',
+      phone: '760-231-7614',
+      address: '2183 Vista Way, Suite B-2\nOceanside, CA 92054',
+      lat: '33.182632',
+      lng: '-117.340943'
+    },
+    {
+      location: 'Palm Ave.',
+      phone: '619-240-3865',
+      address: '2183 Vista Way, Suite B-2\nSan Diego, CA 92154',
+      lat: '33.182632',
+      lng: '-117.340943'
+    },
+    {
+      location: 'Poway',
+      phone: '858-883-2914',
+      address: '13369 Poway Rd.\nPoway, CA 92064',
+      lat: '32.955200',
+      lng: '-117.041798'
+    },
+    {
+      location: 'San Carlos',
+      phone: '619-825-6036',
+      address: '8868 Navajo Rd. Suite 18\nSan Diego, CA 92119',
+      lat: '32.804101',
+      lng: '-117.007201'
+    },
     {
       location: 'San Marcos 1',
       phone: '760-598-7209',
@@ -484,7 +635,14 @@ window.data = {
       cross: 'Telegraph Canyon Rd. and I-805',
       lat: '32.629148',
       lng: '-117.039618'      
-    }
+    },
+    {
+      location: 'Vista',
+      phone: '760-940-8625',
+      address: '1385 E. Vista Way Suite A.\nVista, CA 92084',
+      lat: '33.219293',
+      lng: '-117.225676'
+    },
     ]
   }
 }
