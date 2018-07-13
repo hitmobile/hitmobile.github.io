@@ -10,6 +10,7 @@ window.data = {
       phone: '877.448.7711',
       fax: '714.486.3051',
       email: 'customerfeedback@myhitmobile.com',
+      careers: 'careers@myhitmobile.com'
     },
     landing: {
       one: {
@@ -97,14 +98,19 @@ window.data = {
       ],
       key: [
         {
-          icon: './img/meet/sr.jpg',
-          name: 'Saul Rodriguez',
-          role: 'Director of Sales - LA'
-        },
-        {
           icon: './img/meet/tm.jpg',
           name: 'Tamela Milini',
           role: 'Director of Sales'
+        },
+        {
+          icon: './img/meet/sr.jpg',
+          name: 'Saul Rodriguez',
+          role: 'Director of Sales'
+        },
+        {
+          icon: './img/meet/ab.jpg',
+          name: 'Alma Burgos',
+          role: 'Director of Operations'
         },
         {
           icon: './img/meet/ks.jpg',
@@ -112,14 +118,14 @@ window.data = {
           role: 'Director of Operations'
         },
         {
-          icon: './img/meet/sh.jpg',
-          name: 'Saadiya Horani',
-          role: 'Commission Specialist'
-        },
-        {
           icon: './img/meet/dq.jpg',
           name: 'Desiree Quan',
           role: 'Director of Human Resources'
+        },
+        {
+          icon: './img/meet/sh.jpg',
+          name: 'Saadiya Horani',
+          role: 'Commission Specialist'
         }
       ]
     },
@@ -168,22 +174,13 @@ window.data = {
   stores: {
     la: [
     {
-      location: 'Anaheim 1',
+      location: 'Anaheim',
       phone: '657-233-5566',
       fax: '657-233-5741',
       address: '1686 W Katella Ave\nAnaheim, CA 92802',
       cross: 'Katella Ave and Euclid St.',
       lat: '33.801721',
       lng: '-117.940651'
-    },
-    {
-      location: 'Anaheim 2',
-      phone: '657-233-5566',
-      fax: '657-233-5741',
-      address: '905 N Euclid Street Suite C\nAnaheim, CA 92801',
-      cross: 'Euclid St and Catapala Dr',
-      lat: '33.844223',
-      lng: '-117.942138'
     },
     {
       location: 'Baldwin Park',
@@ -321,13 +318,21 @@ window.data = {
       lng: '-118.535477'      
     },
     {
-      location: 'Panorama',
+      location: 'Panorama City',
       phone: '818-781-1148',
       fax: '818-781-1325',
       address: '8244 Van Nuys Blvd.\nPanorama City, CA 91402',
       cross: 'Van Nuys and Titus',
       lat: '34.220922',
       lng: '-118.448491'      
+    },
+    {
+      location: 'Riverside',
+      phone: '951-351-1700',
+      fax: '951-351-1703',
+      address: '3782 Tyler Street\nRiverside, CA 92503',
+      lat: '33.911185',
+      lng: '-117.461466'  
     },
     {
       location: 'Santa Ana',
@@ -346,6 +351,14 @@ window.data = {
       cross: 'Hawthrone and 182nd St.',
       lat: '33.863429',
       lng: '-118.352690'      
+    },
+    {
+      location: 'Westchester',
+      phone: '310-988-4840',
+      fax: '310-988-4848',
+      address: '8632 S Sepulveda Blvd #105\nWestchester, CA 90045',
+      lat: '33.958891',
+      lng: '-118.395817'      
     },
     {
       location: 'Westminster',
@@ -396,7 +409,7 @@ window.data = {
       lng: '-117.192459'
     },
     {
-      location: 'Bonito',
+      location: 'Bonita',
       phone: '619-773-7928',
       address: '3077 Clairemont Dr. Suite A\nSan Diego, CA 92117',
       lat: '32.659795',
