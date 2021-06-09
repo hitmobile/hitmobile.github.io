@@ -10,7 +10,7 @@ window.data = {
       phone: "877.448.7711",
       fax: "714.486.3051",
       email: "customerfeedback@myhitmobile.com",
-      careers: "careers@myhitmobile.com"
+      careers: "jobs@myhitmobile.com"
     },
     landing: {
       one: {
