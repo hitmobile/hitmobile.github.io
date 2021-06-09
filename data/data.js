@@ -112,11 +112,6 @@ window.data = {
       ],
       key: [
         {
-          icon: "./img/meet/tm.jpg",
-          name: "Tamela Milini",
-          role: "Director of Sales"
-        },
-        {
           icon: "./img/meet/sr.jpg",
           name: "Saul Rodriguez",
           role: "Director of Sales"
